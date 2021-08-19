@@ -2,7 +2,7 @@
 
 ## はじめに
 
-Jetpack Compose で WebView を使いたいのであれば AndroidView を利用して WebView を生成する必要がある。AndroidView を利用した WebView の生成方法について少し調べたのでまとめる。
+Jetpack Compose で WebView を使いたいのであれば AndroidView を利用して WebView を生成する必要がある。AndroidView を利用した WebView の生成方法について少し調べたのでまとめる。
 
 ## セットアップ
 
